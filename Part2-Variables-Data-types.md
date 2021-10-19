@@ -112,7 +112,7 @@ We have different types of opertors they are:
   <ol><li>Equal to (==) </li>
  <li> Not Equal to (!=) </li>
  <li> Greater than (>) </li>
-  <li> Eess than (<) </li>
+  <li> Less than (<) </li>
   <li> Greater than or Equal to (>=) </li>
   <li> Less than or Equal to (<=) </li></ol>
    
