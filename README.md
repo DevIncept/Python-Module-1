@@ -18,7 +18,7 @@ Go through them, try to understand and run the codes. If you have any doubt, ask
 2. [Part1: Introduction to Python Notebook](Part1-Python-Basics.ipynb) 💻
 3. [Part2: Variable and Data Types](variablesanddatatypesinPython.md)
 4. [Part2: Variable and Data Types Notebook](Part2-Variable-Data-type.ipynb)
-5. [Part3: Operators in Python](Part3-Basic-Operators.md)
+5. [Part3: Operators in Python](Operators.md)
 6. [Part3: Operators in Python Notebook](Part3-Basic-Operators.ipynb)
 7. [Part4: Conditionals in Python](Part4-Conditionals.md)
 8. [Part4: Conditionals in Python Notebook](Part4-Conditionals.ipynb)
