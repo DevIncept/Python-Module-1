@@ -24,7 +24,7 @@ Go through them, try to understand and run the codes. If you have any doubt, ask
 8. [Part4: Conditionals in Python Notebook](Part4-Conditionals.ipynb)
 9. [Part5: Loops in Python](Python_Loops.md)
 10. [Part5: Loops in Python Notebook](Part5-Loops.ipynb)
-11. [Part6: Data Structures](Part6-Data-Structures.md)
+11. [Part6: Data Structures](DataStructuresinPython.md)
 12. [Part7: Tuples](Part7-Tuples.md)
 13. [Part7: Tuples Notebook](Part7-Tuple.ipynb)
 14. [Part8: Sets](Part8-Sets.md)
