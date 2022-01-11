@@ -20,7 +20,7 @@ Go through them, try to understand and run the codes. If you have any doubt, ask
 4. [Part2: Variable and Data Types Notebook](Part2-Variable-Data-type.ipynb)
 5. [Part3: Operators in Python](Operators.md)
 6. [Part3: Operators in Python Notebook](Operators.ipynb)
-7. [Part4: Conditionals in Python](Part4-Conditionals.md)
+7. [Part4: Conditionals in Python](conditionals_in_Python.md)
 8. [Part4: Conditionals in Python Notebook](Part4-Conditionals.ipynb)
 9. [Part5: Loops in Python](Part5-Loops.md)
 10. [Part5: Loops in Python Notebook](Part5-Loops.ipynb)
