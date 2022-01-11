@@ -14,7 +14,7 @@ Go through them, try to understand and run the codes. If you have any doubt, ask
 
 ### <a href="https://www.youtube.com/watch?v=Q-iC4VaW8ZA" target="_blank">Starting with Anaconda 3<a>
 
-1. [Part1: Introduction to Python](introtopython.md) 📓
+1. [Part1: Introduction to Python](Part1-Introduction-to-Python.md) 📓
 2. [Part1: Introduction to Python Notebook](Part1-Python-Basics.ipynb) 💻
 3. [Part2: Variable and Data Types](variablesanddatatypesinPython.md)
 4. [Part2: Variable and Data Types Notebook](Part2-Variable-Data-type.ipynb)
