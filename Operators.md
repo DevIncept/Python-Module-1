@@ -1,10 +1,17 @@
+<p align="center">
+   <img src="https://camo.githubusercontent.com/531b82c3b02c0b77a94498070b5890ce41ee94a572502f3db741d15bf45f9cb3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f312a505049703774774a4a556b6e666f685a71744c3870512e706e67" alt="Python Programming"
+        width="600" height="200">
+   <br />
+   <b> INTRODUCTION TO PYTHON</b>
+   <br />
+   
+   <br />
+</p>
 
-![Python](https://camo.githubusercontent.com/531b82c3b02c0b77a94498070b5890ce41ee94a572502f3db741d15bf45f9cb3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313230302f312a505049703774774a4a556b6e666f685a71744c3870512e706e67)
 
 
 
-
-# Operators & Operation in Python
+  # Operators & Operation in Python
 
 In this , you'll learn everything about different types of operators in Python, their syntax and how to use them with examples.
 
