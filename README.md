@@ -24,10 +24,10 @@ Go through them, try to understand and run the codes. If you have any doubt, ask
 8. [Part4: Conditionals in Python Notebook](Part4-Conditionals.ipynb)
 9. [Part5: Loops in Python](Part5-Loops.md)
 10. [Part5: Loops in Python Notebook](Part5-Loops.ipynb)
-11. [Part6: Data Structures](DataStructuresinPython.md)
-12. [Part7: Tuples](Tuples.md.md)
+11. [Part6: Data Structures](Part6-Data-Structures.md.md)
+12. [Part7: Tuples](Part7-Tuple.md)
 13. [Part7: Tuples Notebook](Part7-Tuple.ipynb)
-14. [Part8: Sets](sets.md)
+14. [Part8: Sets](Part8-Sets.md)
 15. [Part8: Sets Notebook](Part8-Sets.ipynb)
 16. **Competition-Python :** Link of HackerRank competition is in the competiton file, sign up and test your knowledge.
 - [Competition- Python](Competition-python.md)
