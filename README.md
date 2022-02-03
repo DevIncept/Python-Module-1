@@ -14,21 +14,28 @@ Go through them, try to understand and run the codes. If you have any doubt, ask
 
 ### <a href="https://www.youtube.com/watch?v=Q-iC4VaW8ZA" target="_blank">Starting with Anaconda 3<a>
 
-1. [Part1: Introduction to Python](Part1-Python-basics.md) 📓
-2. [Part1: Introduction to Python Notebook](Part1-Python-Basics.ipynb) 💻
-2. [Part1: Introduction to Python Notebook](Part1-Python-Basics.ipynb) 🎦
-3. [Part2: Variable and Data Types](Part2-Variables-Data-types.md)
-4. [Part2: Variable and Data Types Notebook](Part2-Variable-Data-type.ipynb)
-5. [Part3: Operators in Python](Part3-Basic-Operators.md)
-6. [Part3: Operators in Python Notebook](Part3-Basic-Operators.ipynb)
-7. [Part4: Conditionals in Python](Part4-Conditionals.md)
-8. [Part4: Conditionals in Python Notebook](Part4-Conditionals.ipynb)
-9. [Part5: Loops in Python](Part5-Loops.md)
-10. [Part5: Loops in Python Notebook](Part5-Loops.ipynb)
-11. [Part6: Data Structures](Part6-Data-Structures.md)
-12. [Part7: Tuples](Part7-Tuples.md)
-13. [Part7: Tuples Notebook](Part7-Tuple.ipynb)
-14. [Part8: Sets](Part8-Sets.md)
-15. [Part8: Sets Notebook](Part8-Sets.ipynb)
+1. [Part1: Introduction to Python](Part1-Introduction-to-Python.md) 📓
+2. [Video: Introduction to Python](https://youtu.be/jqSsqN2wrgk)📹
+3. [Part1: Introduction to Python Notebook](Part1-Python-Basics.ipynb) 💻
+4. [Part2: Variable and Data Types](Part2-Variable-and-DataTypes.md)📓
+5. [Video: Variable and Data Types](https://youtu.be/jGcbEPkeeN0)📹
+6. [Part2: Variable and Data Types Notebook](Part2-Variable-Data-type.ipynb)💻
+7. [Part3: Operators in Python](Part3-Operators-in-Python.md)📓
+8. [Video: Part3: Operators in Python](https://youtu.be/HjnCXfKKFN0)📹
+9. [Part3: Operators in Python Notebook](Part3-Operators-in-Python.ipynb)💻
+10. [Part4: Conditionals in Python](Part4-Conditionals.md)📓
+11. [Video: Conditionals in Python](https://youtu.be/g9DGkKQq0JQ)📹
+12. [Part4: Conditionals in Python Notebook](Part4-Conditionals.ipynb)💻
+13. [Part5: Loops in Python](Part5-Loops.md)📓
+14. [Video: Loops in Python](https://youtu.be/9vsxXiOSsCI)📹
+15. [Part5: Loops in Python Notebook](Part5-Loops.ipynb)💻
+16. [Part6: Data Structures](Part6-Data-Structures.md.md)📓
+17. [Video: Data Structures](https://youtu.be/k36XfUhFibw)📹
+18. [Part7: Tuples](Part7-Tuple.md)📓
+19. [Video: Tuples](https://youtu.be/Y_ItAujngyA)📹
+20. [Part7: Tuples Notebook](Part7-Tuple.ipynb)💻
+21. [Part8: Sets](Part8-Sets.md)📓
+22. [Video: Sets](https://youtu.be/yCCThzufUEc)📹
+15. [Part8: Sets Notebook](Part8-Sets.ipynb)💻
 16. **Competition-Python :** Link of HackerRank competition is in the competiton file, sign up and test your knowledge.
 - [Competition- Python](Competition-python.md)
